@@ -7,7 +7,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/anthdm/foreverstore/p2p"
+	"github.com/AnurajBhaskar47/Distributed_File_System/p2p"
 )
 
 func makeServer(listenAddr string, nodes ...string) *FileServer {
