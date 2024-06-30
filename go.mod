@@ -1,4 +1,4 @@
-module github.com/AnurajBhaskar47/distributedfilesys
+module github.com/AnurajBhaskar47/Distributed_File_System
 
 go 1.23.0
 
